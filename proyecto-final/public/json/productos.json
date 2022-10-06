@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "nombre":"Set Cachorros 2,8 kg + Comedero",
+        "marca":"Mon Ami",
+        "precio": 9500,
+        "stock": 20,
+        "img":"set-cachorros-2.8kg-comedero.jpg"
+      },
+      {
+        "id":2,
+        "nombre":"Set Razas Pequeñas y Medianas + Comedero",
+        "marca":"Mon Ami",
+        "precio": 12500,
+        "stock": 20,
+        "img":"set-razas-pequenas-y-medianas-comedero.jpg"
+      },
+      {
+        "id":3,
+        "nombre":"Set Razas Medianas y Grandes + Comedero",
+        "marca":"Mon Ami",
+        "precio": 11000,
+        "stock": 20,
+        "img":"set-razas-medianas-y-grandes-comedero.jpg"
+      },
+      {
+        "id":4,
+        "nombre":"Alimento Saludable Cachorros 1,4 kg + Snack Trainee 400g",
+        "marca":"Mon Ami",
+        "precio": 4500,
+        "stock": 20,
+        "img":"alimento-saludable-cachorros-14-kg-snack-trainee-400g.jpg"
+      }
+]
