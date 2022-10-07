@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import Dropdown from '../layouts/Dropdown';
 import Secciones from '../layouts/Secciones';
 
 const Navbar = ({contador}) => {
@@ -11,7 +10,6 @@ const Navbar = ({contador}) => {
                 <div className="collapse navbar-collapse" id="navbarColor01">
                   <ul className="navbar-nav me-auto">
                     <Secciones/>
-                    <Dropdown/>
                   </ul>
                   
                 </div>
